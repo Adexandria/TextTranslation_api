@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "iOjA/cpT1ZvlXFTSu/+u1pO8HEqr+C9j+h27vbnNOEqP1l2s54f4SfB5O4g3KmEUu2w7FJVgMrNdXoWEawFH8g==",
+  "dgSpecHash": "xm1FChvSn3So9W4tFFzYmRAx0I+sJQfol4TlVipafjQLj56JMLtfgRCfX89XgGzlYYQPzJvMvfhuj9w1WX20zA==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP 650\\source\\repos\\TextTranslations\\TextTranslations.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\HP 650\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
